@@ -29,5 +29,6 @@ Output Sheet: Stores the cleaned and processed data + chart
 Control Sheet: Which has the Automation button to start the Macros.
 
 This project demonstrates how Excel VBA can be used to speed up repetitive tasks like data cleaning, transformation, and visualization for non-technical users or analysts.
+This can be implemented in the same way for a big data set with more operations like date formatting, convering blanks to Null or zero, data standardization, creating VBA functions to do perform manual or automatic operations etc.
 
 
