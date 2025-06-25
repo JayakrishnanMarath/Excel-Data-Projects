@@ -1,0 +1,11 @@
+Date,Sales Rep,Product,Quantity,Total Sales
+01-01-2023,John Doe,Widget,15,"$1,240 "
+02-01-2023,Jane Smith,Gadget,18,"$1,660 "
+03-01-2023,Emily Davis,Thingamajig,9,"$1,550 "
+04-01-2023,Michael Brown,Doodad,7,$700 
+05-01-2023,Sarah Lee,Gizmo,16,"$1,170 "
+06-01-2023,Robert Johnson,Contraption,6,"$1,380 "
+07-01-2023,Linda White,Apparatus,19,"$1,880 "
+08-01-2023,David Harris,Device,17,"$1,900 "
+09-01-2023,Laura Wilson,Tool,13,"$1,290 "
+10-01-2023,Mark Evans,Instrument,8,"$1,030 "
