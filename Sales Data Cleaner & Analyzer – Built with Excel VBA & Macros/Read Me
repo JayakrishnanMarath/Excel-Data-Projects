@@ -1,1 +1,33 @@
+📊 Sales Data Cleaner & Analyzer (Excel VBA + Macros)
+This is a simple automation project built using Excel Macros and VBA. It automates the process of cleaning raw sales data, transforming it, and generating a basic bar chart, all in a single macro execution.
+
+✅ Features:
+Imports raw CSV sales data automatically
+
+Splits full Sales Rep names into First_Name and Last_Name
+
+Calculates Item Price by dividing Total Sales by Quantity
+
+Removes redundant columns (like the original full name)
+
+Outputs the cleaned data to a new sheet
+
+Creates a bar chart showing Total Sales by First_Name
+
+🔧 Tools Used:
+Microsoft Excel
+
+VBA (Visual Basic for Applications)
+
+Excel Macros
+
+📁 Sheets Involved:
+Input Sheet: Stores the unmodified raw sales data
+
+Output Sheet: Stores the cleaned and processed data + chart
+
+Control Sheet: Which has the Automation button to start the Macros.
+
+This project demonstrates how Excel VBA can be used to speed up repetitive tasks like data cleaning, transformation, and visualization for non-technical users or analysts.
+
 
